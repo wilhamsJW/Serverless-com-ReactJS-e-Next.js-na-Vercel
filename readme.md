@@ -6,6 +6,6 @@ Nesses casos temos duas opções, criar um back-end do zero e conectar com nosso
 
 Nesse vídeo vamos ver como utilizar as Serverless Functions da Vercel para salvar dados de um usuário no MongoDB utilizando ReactJS e Next.js.
 
-Ponto de partida: https://github.com/rocketseat-content/youtube-nextjs-design-system
-Código do return: https://gist.github.com/diego3g/e2faeec0fc2cfe6404e344db94ee3073
-Código final: https://github.com/rocketseat-content/youtube-vercel-nextjs-serverless
+> Ponto de partida: https://github.com/rocketseat-content/youtube-nextjs-design-system
+> Código do return: https://gist.github.com/diego3g/e2faeec0fc2cfe6404e344db94ee3073
+> Código final: https://github.com/rocketseat-content/youtube-vercel-nextjs-serverless
